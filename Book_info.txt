@@ -1,0 +1,25 @@
+Book_ID,Title,Author,Genre,Purchase_Price,Purchase_Date
+10256,Me Before You,Jojo Moyes,Romance:Fiction,7.19,2021-11-04
+20932,The Lying Game,Ruth Ware,Myster:Thriller,8.27,2021-03-15
+03746,The Hate U Give,Angie Thomas,Young Adult:Social Justice,8.25,2020-01-02
+45587,Ketchup Clouds,Annabel Pitcher,Young Adult:Romance,6.43,2022-06-04
+25942,Rebecca,Daphne Du Maurier,Gothic:Mystery,7.99,2020-11-13
+63741,Ugly Love,Colleen Hoover,Romance:Fiction,4.50,2021-11-24
+77327,The Opportunist,Tarryn Fisher,Romance:Fiction,9.80,2021-09-22
+18194,Think Twice,Sarah Mlynowski,Young Adult:Science Fiction,7.39,2019-03-10
+91783,After You,Jojo Moyes,Romance:Fiction,6.99,2022-02-27
+01032,Silence Is Goldfish,Annabel Pitcher,Young Adult:Mental Health,7.35,2021-03-30
+61148,One of Us is Lying,Karen M.McManus,Mystery:Suspense,4.00,2020-08-17
+12009,Still Me,Jojo Moyes,Romance:Fiction,4.50,2022-06-01
+51383,Noughts And Crosses,Malorie Blackman,Young Adult:Dystopia,6.29,2020-10-11
+81745,The Handmaid's Tale,Margaret Atwood,Classics:Dystopia,4.50,2021-12-08
+31502,My Sister Jodie,Jacqueline Wilson,Childrens:Fiction,4.00,2018-08-04
+00160,Lies We Tell Ourselves,Robin Talley,Historical Fiction: LGBT,7.99,2022-01-14
+52174,Shatter Me,Tahereh Mafi,Young Adult:Dystopia:Thriller,5.00,2021-09-26
+65418,The Fault In Our Stars,John Green,Young Adult:Romance,7.39,2022-05-12
+10257,Me Before You,Jojo Moyes,Romance:Fiction,4.99,2021-12-04
+20046,Pig Heart Boy,Malorie Blackman,Children's Lit:Realism,6.65,2017-04-04
+44218,Of Mice And Men,John Steinbeck,Social Realism:Classic,7.15,2021-03-05
+24682,One of Us is Lying,Karen M.McManus,Mystery:Suspense,4.00,2022-02-09
+34623,The Lying Game,Sarah Shephard,Thriller:Suspense,9.49,2022-03-04
+
